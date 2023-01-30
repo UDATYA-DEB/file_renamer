@@ -1,2 +1,5 @@
 # file_renamer
- multiple file renamer using oython
+ multiple file renamer using python
+
+# steps
+JUST RUN THE PYTHON SCRIPT AND FOLLOW THE INSTRUCTIONS i.e COPY THE FOLDER LOCATION WHERE MULTIPLE FILES ARE PRESENT
